@@ -1,0 +1,8 @@
+1, HNI Corporation, Bunk Bed, 10, $400
+2, HNI CorporationHaworth Inc., Twin Bed, 250, $600
+3, Achham furniture, Sleeper Sofa, 60, $200
+4, Kimball International Inc., Corner sofa, 75, $350
+5, Kohler Co., Armchair, 40, $150
+6, Masco Corporation, Desk chair, 40, $100
+7, abc, sofa, 0, 110.0
+8, xyz, table, 200, 290.0
